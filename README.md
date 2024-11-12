@@ -1,8 +1,6 @@
-# EARL
-Official Repository for EARL: Embracing Alternate Replay for Learning with Noisy Labels
+# Official Repository for EARL: Embracing Alternate Replay for Learning with Noisy Labels
 
-# Mammoth - An Extendible (General) Continual Learning Framework for Pytorch
-We use the mammoth framwork to run all the experiments.
+This source code is based on the [mammoth](https://github.com/aimagelab/mammoth/) framework.
 
 ## Setup
 
