@@ -1,0 +1,11 @@
+torch
+numpy
+torchvision
+six
+onedrivedownloader
+av
+tqdm
+kornia
+deeplake
+timm==0.9.8
+kornia

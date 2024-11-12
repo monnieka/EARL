@@ -25,9 +25,9 @@ Different models can be loaded with `--model=<model_name>` with `<model_name>` b
 
 NOTE: `spr` and `cnll` are missing as are not part of the main comparison but can be found in the respective original repositories.
 
-# e.g. to run our model on cifar100 sym noise 40% experiment,
+## e.g. to run our model on cifar100 sym noise 40% experiment
 python ./utils/main.py --model=earl --dataset=seq-cifar100 --buffer_size=500 --lr=0.03 --noise=sym --noise_rate=0.4 
-# e.g. to run our model on cifar100 human-annotated noise experiment,
+## e.g. to run our model on cifar100 human-annotated noise experiment
 python ./utils/main.py --model=earl --dataset=seq-cifar100 --buffer_size=500 --lr=0.03 --noise_type=noisy100 
 
 
