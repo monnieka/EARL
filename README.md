@@ -1,4 +1,4 @@
-# Official Repository for EARL: Embracing Alternate Replay for Learning with Noisy Labels
+# Official Repository for EARL: Embracing Amnesic Replay for Learning with Noisy Labels
 
 This source code is based on the [mammoth](https://github.com/aimagelab/mammoth/) framework.
 
